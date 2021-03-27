@@ -1,3 +1,13 @@
+# Amazon Clone using ReactJS
+
+Used Tools & Technologies
+
+- React JS, Node JS, ContextApi, Redux
+
+- Firebase ( for Authentication, deploying hosting & cloud functions)
+
+- Stripe integeration for payment method
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
