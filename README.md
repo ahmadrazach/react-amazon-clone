@@ -2,7 +2,7 @@
 
 Used Tools & Technologies
 
-- React JS, Node JS, ContextApi, Redux
+- React JS, Node JS, ContextApi, Redux, React-Router-dom
 
 - Firebase ( for Authentication, deploying hosting & cloud functions)
 
